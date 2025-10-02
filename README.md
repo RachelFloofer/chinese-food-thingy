@@ -44,6 +44,6 @@ sure, pull requests welcome but i’ll probably just laugh and ignore it :3
 
 ## license
 
-do whatever the fuck you want. redistribute, hack it, delete it, whatever. made by **Rachel Sonnenschein**, the same bitch who made winapi-mac-chimera.  
+do whatever the fuck you want. redistribute, hack it, delete it, whatever. made by **Rachel Sonnenschein**, the same bitch who made winapi-mac-chimera.  and floof i guess.
 
 have fun, or suffer. your choice.
