@@ -31,7 +31,7 @@ swift build
 
 ## why tho?
 
-because i wanted to. also because i’m the same cursed weirdo who made [winapi-mac-chimera](https://github.com/yourusername/winapi-mac-chimera), that steaming pile of objective c++ bullshit pretending to be windows api.  
+because i wanted to. also because i’m the same cursed weirdo who made [winapi-mac-chimera](https://github.com/RachelFloofer/winapi-hellscape.git), that steaming pile of objective c++ bullshit pretending to be windows api.  
 yeah it’s cursed, yeah it probably won’t work right, i don’t care, i MADE IT.  
 
 ---
