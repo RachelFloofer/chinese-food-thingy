@@ -3,7 +3,8 @@
 YEAH BITCHES, I MADE A FUCKING CHINESE FOOD APP FOR MAC, DEAL WITH IT.  
 because apparently the world needs more cursed swiftui nonsense.  
 
-[download the raw .app here](link-to-your-app)  
+[download the shitty app here, drag it to applications, and curse urself for downloading this](https://github.com/user-attachments/files/22656034/HappyChinese.zip)
+
 
 ---
 
